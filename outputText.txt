@@ -1,0 +1,622 @@
+Internet Of Things
+
+The "Internet of things" (IoT) is becoming an increasingly growing
+topic of conversation both in the workplace and outside of it. It's a
+concept that not only has the potential to impact how we live but
+also how we work. But what exactly is the "Internet of things" and
+what impact is it going to have on you, if any? There are a lot of
+complexities around the "Internet of things" but I want to stick to
+the basics. Lots of technical and policy-related conversations are
+being had but many people are still just trying to grasp the
+foundation of what the heck these conversations are about.
+
+Let's start with understanding a few things.
+
+Broadband Internet is becoming more widely available, the cost of
+connecting is decreasing, more devices are being created with Wi-Fi
+capabilities and sensors built into them, technology costs are going
+down, and smartphone penetration is sky-rocketing. All of these
+things are creating a "perfect storm" for the IoT.
+
+Simply put, this is the concept of basically connecting any device
+with an on and off switch to the Internet . This includes everything
+from cell phones, coffee makers, washing machines, headphones,
+lamps, wearable devices and almost anything else you can think of.
+This also applies to components of machines, for example a jet
+engine of an airplane or the drill of an oil rig. As I mentioned, if it
+has an on and off switch then chances are it can be a part of the IoT.
+The analyst firm Gartner says that by 2020 there will be over 26
+billion connected devices... That's a lot of connections some even
+estimate this number to be much higher, over 100 billion. The IoT
+is a giant network of connected things which also includes people.
+The relationship will be between people-people, people-things, and
+things-things.
+
+ The new rule for the future is going to be, "Anything that can be
+connected, will be connected." But why on earth would you want so
+many connected devices talking to each other? There are many
+examples for what this might look like or what the potential value
+might be. Say for example you are on your way to a meeting; your
+car could have access to your calendar and already know the best
+route to take. If the traffic is heavy your car might send a text to the
+other party notifying them that you will be late. What if your alarm
+clock wakes you at 6 a.m. and then notifies your coffee maker to
+start brewing coffee for you? What if your office equipment knew
+when it was running low on supplies and automatically re-ordered
+more?  What if the wearable device you used in the workplace could
+tell you when and where you were most active and productive and
+shared that information with other devices that you used while
+working?
+
+On a broader scale, the IoT can be applied to things like
+transportation networks: "smart cities" which can help us reduce
+waste and improve efficiency for things such as energy use; this
+helps us understand and improve how we work and live. Take a look
+at the visual below to see what something like that can look like.
+
+The reality is that the IoT allows for virtually endless opportunities
+and connections to take place, many of which we can't even think of
+or fully understand the impact of today. It's not hard to see how and
+why the IoT is such a hot topic today; it certainly opens the door to a
+lot of opportunities but also to many challenges. Security is a big
+issue that is oftentimes brought up. The IoT also opens up
+companies all over the world to more security threats. Then we have
+the issue of privacy and data sharing. This is a hot-button topic even
+today, so one can only imagine how the conversation and concerns
+will escalate when we are talking about many billions of devices
+
+ being connected. Another issue that many companies specifically
+are going to be faced with is around the massive amounts of data
+that all of these devices are going to produce. Companies need to
+figure out a way to store, track, analyze and make sense of the vast
+amounts of data that will be generated.
+
+Conversations about the IoT are and have been for several years
+taking place all over the world as we seek to understand how this
+will impact our lives. We are also trying to understand what the
+many opportunities and challenges are going to be as more and
+more devices start to join the IoT. For now the best thing that we
+can do is educate ourselves about what the IoT is and the potential
+impacts that can be seen on how we work and live.
+
+The applications of IoT technologies are multiple, because it is
+adjustable to almost any technology that is capable of providing
+relevant information about its own operation, about the
+performance of an activity and even about the environmental
+conditions that we need to monitor and control at a distance.
+
+Nowadays, many companies from different sectors or sectors are
+adopting this technology to simplify, improve, automate and control
+different processes. Next, we show some of the surprising practical
+applications of the IoT.
+
+1)Wearables-Virtual glasses, fitness bands to monitor for example
+calorie expenditure and heart beats, or GPS tracking belts, are just
+some examples of wearable devices that we have been using for
+some time now. Companies such as Google, Apple, Samsung and
+others have developed and introduced the Internet of Things and
+
+ the application thereof into our daily lives.These are small and
+energy efficient devices, which are equipped with sensors, with the
+necessary hardware for measurements and readings, and with
+software to collect and organize data and information about users.
+
+2)Health-The use of wearables or sensors connected to patients,
+allows doctors to monitor a patient's condition outside the hospital
+and in real-time. Through continuously monitoring certain metrics
+and automatic alerts on their vital signs, the Internet of Things
+helps to improve the care for patients and the prevention of lethal
+events in high-risk patients.Another use is the integration of IoT
+technology into hospital beds, giving way to smart beds, equipped
+with special sensors to observe vital signs, blood pressure, oximeter
+and body temperature, among others.
+
+3)Traffic Monitoring-The Internet of things can be very useful in the
+management of vehicular traffic in large cities, contributing to the
+concept of smart cities.When we use our mobile phones as sensors,
+which collect and share data from our vehicles through applications
+such as Waze or Google Maps, we are using the Internet of Things to
+inform us and at the same time contribute to traffic monitoring,
+showing the conditions of the different routes, and feeding and
+improving the information on the different routes to the same
+destination, distance, estimated time of arrival.
+
+4)Fleet Management-The installation of sensors in fleet vehicles
+helps to establish an effective interconnectivity between the vehicles
+and their managers as well as between the vehicles and their drivers.
+Both driver and manager/ owner can know all kinds of details about
+
+ the status, operation and needs of the vehicle, just by accessing the
+software in charge of collecting, processing and organizing the data.
+Even, receive alarms in real time of maintenance incidents without
+having been detected by the driver.The application of the Internet of
+Things to fleet management assists with geolocation and with it the
+monitoring of routes and identification of the most efficient routes,
+performance analysis, telemetry control and fuel savings , the
+reduction of polluting emissions to the environment and can even
+provide valuable information to improve the driving of vehicles.
+
+5)Agriculture-Smart farms are a fact. The quality of soil is crucial to
+produce good crops, and the Internet of Things offers farmers the
+possibility to access detailed knowledge and valuable information of
+their soil condition.Through the implementation of IoT sensors, a
+significant amount of data can be obtained on the state and stages of
+the soil. Information such as soil moisture, level of acidity, the
+presence of certain nutrients, temperature and many other chemical
+characteristics, helps farmers control irrigation, make water use
+more efficient, specify the best times to start sowing, and even
+discover the presence of diseases in plants and soil.
+
+6)Hospitality-The application of the IoT to the hotel industry brings
+with it interesting improvements in the quality of the service. With
+the implementation of electronic keys, which are sent directly to the
+mobile devices of each guest, it is possible to automate various
+interactions.Thus, the location of the guests, the sending of offers or
+information on activities of interest, the realization of orders to the
+room or room service , the automatic charge of accounts to the room
+or the request of personal hygiene supplies, are activities that can be
+
+ easily managed through integrated applications using the Internet
+of Things technology.
+
+With the use of electronic keys, the check-out process is automated,
+disabling the operation of doors, offering information about the
+rooms immediately available, and even assigning housekeeping
+tasks to maintenance personnel.
+
+7)Smart grid and energy saving-The progressive use of intelligent
+energy meters, or meters equipped with sensors, and the installation
+of sensors in different strategic points that go from the production
+plants to the different distribution points, allows better monitoring
+and control of the electrical network.By establishing a bidirectional
+communication between the service provider company and the end
+user, information of enormous value can be obtained for the
+detection of faults, decision making and repair thereof.
+
+It also allows offering valuable information to the end user about
+their consumption patterns and about the best ways to reduce or
+adjust their energy expenditure.
+
+8)Water supply-A sensor, either incorporated or adjusted externally
+to water meters, connected to the Internet and accompanied by the
+necessary software , helps to collect, process and analyze data,
+which allows understanding the behavior of consumers, detecting
+faults in the supply service, report results and offer courses of action
+to the company that provides the service.Likewise, it offers final
+consumers the possibility of tracking their own consumption
+
+ information, through a web page and in real time, even receiving
+automatic alerts in case of detecting consumption out of range to
+their average consumption record, which could indicate the
+presence of a leak.
+
+9)Maintenance Management-One of the areas where the application
+of IoT technology is most extensive is precisely maintenance
+management. Through the combination of sensors and software
+specialized in maintenance management, a multifunctional tool is
+obtained whose use can be applied to a multiplicity of disciplines
+and practices, with the purpose of extending the useful life of
+physical assets, while guaranteeing asset reliability and
+availability.When the characteristics of the software in charge of
+processing and arranging the data collected by the sensors are
+designed to specifically address the maintenance management
+needs of physical assets, their application is almost unlimited.
+
+The real time monitoring of physical assets allows determining
+when a measurement is out of range and it is necessary to perform
+condition-based maintenance, or even applying Artificial
+Intelligence algorithms such as Machine Learning or Deep Learning
+to predict the failure before it happens.
+
+Advantages of Internet of things
+
+1)Easy Access-Right now, you can easily access the necessary
+
+information in real-time, from whichever location you are at. All it
+
+ takes is a smart device and internet connection.We use Google Maps
+
+to see where we are, instead of asking a person in the street.Booking
+
+is simpler than ever. Factual information is easily accessible, even
+
+from the latest scientific research, or business analysis. It is only a
+
+click away.
+
+2)Speed-All this data pouring in enables us to complete numerous
+
+tasks with envying speed. For example, IoT makes automation easy.
+
+Smart offices automate repetitive tasks, thus allowing employees to
+
+invest their time and effort into something more challenging.
+
+3)Adapting to new standards-Though IoT is ever-changing, its
+
+alterations are minimal compared to the rest of the high tech world.
+
+Without IoT, it would be hard for us to keep track of all the latest
+
+updates.
+
+4)Better Time Management-Overall, the IoT is an incredible
+
+time-saving tool. We can search for the latest news on our phones
+
+during our daily commute, or visit a blog about our favorite pastime,
+
+purchase an item in an online shop, you name it.
+
+Eventually, we end up with much more time on our hands.
+
+ However, nothing is perfect.
+
+Disadvantages of IOT-
+
+1)Data Breach-Having easy access to data is wonderful.
+
+Unfortunately, our own private data is more exposed than ever too.
+
+Statistics show some worrying figures. 12.7 million Americans were
+
+victims of identity theft. A credit card number is the type of
+
+information that was most compromised, followed by a debit card
+
+number.
+
+Data breaches are extremely stressful. Companies also fear them
+
+and can lose the trust of their clients for good if the cyber attack
+
+comes via their website pages.
+
+The riskiest devices are said to be: smart toys for kids, off-brand IoT
+
+gadgets, second-hand smart devices, and the latest, suspicious apps
+
+about the newest unusual devices.
+
+2)Dependence-The IoT, obviously, is dependent on the internet
+
+connection. When there is none, it can’t be used.
+
+ On the other hand, we have become increasingly dependent on the
+
+IoT’s everyday usage. Not only in business, but in our private lives.
+
+If we don’t download the desired information quickly, we are prone
+
+to becoming agitated and upset, even about the most trivial content.
+
+To this end, the IoT does not always bring out the best in us and it
+
+has contributed to the great decrease in our attention spans.
+
+3)Complexity-Though IoT seems to be completing tasks with ease, a
+
+lot of complex operations are behind it. Consequently, if the
+
+software makes a wrong calculation, this will affect the rest of the
+
+process. The above-mentioned over-reliance can be very dangerous
+
+sometimes. At best, we won’t know how to deal with the wrong
+
+temperature in our green home. At worst, a glitch in water dam
+
+software could cause a disastrous flood.Therefore, oftentimes a
+
+mistake in IoT is not always easy to fix.
+
+Standard Devices-
+
+The desktop, tablet, and cellphone remain integral parts of IoT as
+the command center and remotes.  The desktop provides the user
+with the highest level of control over the system and its settings.
+The tablet provides access to the key features of the system in a way
+resembling the desktop, and also acts as a remote. The cell phone
+
+ allows some essential settings modification and also provides
+remote functionality. Other key connected devices include standard
+network devices like routers and switches.
+
+Internet of Things Software-
+
+IoT software addresses its key areas of networking and action
+through platforms, embedded systems, partner systems, and
+middleware. These individual and master applications are
+responsible for data collection, device integration, real-time
+analytics, and application and process extension within the IoT
+network. They exploit integration with critical business systems
+(e.g., ordering systems, robotics, scheduling, and more) in the
+execution of related tasks.
+
+Data Collection This software manages sensing, measurements,
+light data filtering, light data security, and aggregation of data. It
+uses certain protocols to aid sensors in connecting with real-time,
+machine-to-machine networks. Then it collects data from multiple
+devices and distributes it in accordance with settings. It also works
+in reverse by distributing data over devices. The system eventually
+transmits all collected data to a central server.
+
+Device Integration Software supporting integration binds
+(dependent relationships) all system devices to create the body of
+the IoT system. It ensures the necessary cooperation and stable
+networking between devices. These applications are the defining
+software technology of the IoT network because without them, it is
+
+ not an IoT system. They manage the various applications, protocols,
+and limitations of each device to allow communication.
+
+Real-Time Analytics These applications take data or input from
+various devices and convert it into viable actions or clear patterns
+for human analysis. They analyze information based on various
+settings and designs in order to perform automation-related tasks or
+provide the data required by industry.
+
+Application and Process Extension These applications extend the
+reach of existing systems and software to allow a wider, more
+effective system. They integrate predefined devices for specific
+purposes such as allowing certain mobile devices or engineering
+instruments access. It supports improved productivity and more
+accurate data collection.
+
+Common Uses-
+
+IoT has applications across all industries and markets. It spans user
+groups from those who want to reduce energy use in their home to
+large organizations who want to streamline their operations. It
+proves not just useful, but nearly critical in many industries as
+technology advances and we move towards the advanced
+automation imagined in the distant future.
+
+Engineering, Industry, and Infrastructure-Applications of IoT in
+these areas include improving production, marketing, service
+
+ delivery, and safety. IoT provides a strong means of monitoring
+various processes; and real transparency creates greater visibility for
+improvement opportunities. The deep level of control afforded by
+IoT allows rapid and more action on those opportunities, which
+include events like obvious customer needs, nonconforming
+product, malfunctions in equipment, problems in the distribution
+network, and more. Example Joan runs a manufacturing facility that
+makes shields for manufacturing equipment. When regulations
+change for the composition and function of the shields, the new
+appropriate requirements are automatically programmed in
+production robotics, and engineers are alerted about their approval
+of the changes.
+
+Government and Safety-IoT applied to government and safety
+allows improved law enforcement, defense, city planning, and
+economic management. The technology fills in the current gaps,
+corrects many current flaws, and expands the reach of these efforts.
+For example, IoT can help city planners have a clearer view of the
+impact of their design, and governments have a better idea of the
+local economy. Example Joan lives in a small city. She’s heard about
+a recent spike in crime in her area, and worries about coming home
+late at night. Local law enforcement has been alerted about the new
+“hot” zone through system flags, and they’ve increases their
+presence. Area monitoring devices have detected suspicious
+behavior, and law enforcement has investigated these leads to
+prevent crimes.
+
+Home and Office-In our daily lives, IoT provides a personalized
+experience from the home to the office to the organizations we
+frequently do business with. This improves our overall satisfaction,
+
+ enhances productivity, and improves our health and safety. For
+example, IoT can help us customize our office space to optimize our
+work.
+
+Example Joan works in advertising. She enters her office, and it
+recognizes her face. It adjusts the lighting and temperature to her
+preference. It turns on her devices and opens applications to her last
+working points. Her office door detected and recognized a colleague
+visiting her office multiple times before she arrived. Joan’s system
+opens this visitor’s messages automatically.
+
+Health and Medicine-IoT pushes us towards our imagined future of
+medicine which exploits a highly integrated network of
+sophisticated medical devices. Today, IoT can dramatically enhance
+medical research, devices, care, and emergency care. The integration
+of all elements provides more accuracy, more attention to detail,
+faster reactions to events, and constant improvement while reducing
+the typical overhead of medical research and organizations.
+
+Example Joan is a nurse in an emergency room. A call has come in
+for a man wounded in an altercation. The system recognizes the
+patient and pulls his records. On the scene, paramedic equipment
+captures critical information automatically sent to the receiving
+parties at the hospital. The system analyzes the new data and
+current records to deliver a guiding solution. The status of the
+patient is updated every second in the system during his transport.
+The system prompts Joan to approve system actions for medicine
+distribution and medical equipment preparation.
+
+ Environmental Monitoring-
+
+The applications of IoT in environmental monitoring are broad:
+environmental protection, extreme weather monitoring, water
+safety, endangered species protection, commercial farming, and
+more. In these applications, sensors detect and measure every type
+of environmental change.
+
+Air and Water Pollution-Current monitoring technology for air and
+water safety primarily uses manual labor along with advanced
+instruments, and lab processing. IoT improves on this technology by
+reducing the need for human labor, allowing frequent sampling,
+increasing the range of sampling and monitoring, allowing
+sophisticated testing on-site, and binding response efforts to
+detection systems. This allows us to prevent substantial
+contamination and related disasters.
+
+Extreme Weather-Though powerful, advanced systems currently in
+use allow deep monitoring, they suffer from using broad
+instruments, such as radar and satellites, rather than more granular
+solutions. Their instruments for smaller details lack the same
+accurate targeting of stronger technology. New IoT advances
+promise more fine-grained data, better accuracy, and flexibility.
+Effective forecasting requires high detail and flexibility in range,
+instrument type, and deployment. This allows early detection and
+early responses to prevent loss of life and property.
+
+ Commercial Farming -Today's sophisticated commercial farms have
+exploited advanced technology and biotechnology for quite some
+time, however, IoT introduces more access to deeper automation
+and analysis.Much of commercial farming, like weather monitoring,
+suffers from a lack of precision and requires human labor in the area
+of monitoring. Its automation also remains limited. IoT allows
+operations to remove much of the human intervention in system
+function, farming analysis, and monitoring. Systems detect changes
+to crops, soil, environment, and more. They optimize standard
+processes through analysis of large, rich data collections. They also
+prevent health hazards from happening and allow better control.
+
+Manufacturing Applications
+
+Manufacturing technology currently in use exploits standard
+technology along with modern distribution and analytics. IoT
+introduces deeper integration and more powerful analytics. This
+opens the world of manufacturing in a way never seen before, as
+organizations become fully developed for product delivery rather
+than a global network of suppliers, makers, and distributors loosely
+tied together.
+
+Intelligent Product Enhancements
+
+Much like IoT in content delivery, IoT in manufacturing allows
+richer insight in real-time. This dramatically reduces the time and
+resources devoted to this one area, which traditionally requires
+heavy market research before, during, and well after the products
+
+ hit the market.IoT also reduces the risks associated with launching
+new or modified products because it provides more reliable and
+detailed information. The information comes directly from market
+use and buyers rather than assorted sources of varied credibility.
+
+Dynamic Response to Market Demands-Supplying the market
+requires maintaining a certain balance impacted by a number of
+factors such as economy state, sales performance, season, supplier
+status, manufacturing facility status, distribution status, and more.
+The expenses associated with supply present unique challenges
+given today's global partners. The associated potential or real losses
+can dramatically impact business and future decisions.
+
+IoT manages these areas through ensuring fine details are managed
+more at the system level rather than through human evaluations
+and decisions. An IoT system can better assess and control the
+supply chain with most products, whether demands are high or low.
+
+Lower Costs, Optimized Resource Use, and Waste Reduction
+
+IoT offers a replacement for traditional labor and tools in a
+production facility and in the overall chain which cuts many
+previously unavoidable costs; for example, maintenance checks or
+tests traditionally requiring human labor can be performed remotely
+with instruments and sensors of an IoT system.IoT also enhances
+operation analytics to optimize resource use and labor, and
+eliminate various types of waste, e.g., energy and materials. It
+analyzes the entire process from the source point to its end, not just
+
+ the process at one point in a particular facility, which allows
+improvement to have a more substantial impact. It essentially
+reduces waste throughout the network, and returns those savings
+throughout.
+
+Improved Facility Safety-A typical facility suffers from a number of
+health and safety hazards due to risks posed by processes,
+equipment, and product handling. IoT aids in better control and
+visibility. Its monitoring extends throughout the network of devices
+for not only performance, but for dangerous malfunctions and
+usage. It aids (or performs) analysis and repair, or correction, of
+critical flaws.
+
+Product Safety-Even the most sophisticated system cannot avoid
+malfunctions, nonconforming product, and other hazards finding
+their way to market. Sometimes these incidents have nothing to do
+with the manufacturing process, and result from unknown conflicts.
+In manufacturing, IoT helps in avoiding recalls and controlling
+nonconforming or dangerous product distribution. Its high level of
+visibility, control, and integration can better contain any issues that
+appear.
+
+Energy Applications-
+
+The optimization qualities of IoT in manufacturing also apply to
+energy consumption. IoT allows a wide variety of energy control and
+monitoring functions, with applications in devices, commercial and
+residential energy use, and the energy source. Optimization results
+
+ from the detailed analysis previously unavailable to most
+organizations and individuals.
+
+Residential Energy-The rise of technology has driven energy costs
+up. Consumers search for ways to reduce or control consumption.
+IoT offers a sophisticated way to analyze and optimize use not only
+at device level, but throughout the entire system of the home. This
+can mean simple switching off or dimming of lights, or changing
+device settings and modifying multiple home settings to optimize
+energy use. IoT can also discover problematic consumption from
+issues like older appliances, damaged appliances, or faulty system
+components. Traditionally, finding such problems required the use
+of often multiple professionals.
+
+Commercial Energy-Energy waste can easily and quietly impact
+business in a major way, given the tremendous energy needs of even
+small organizations. Smaller organizations wrestle with balancing
+costs of business while delivering a product with typically smaller
+margins, and working with limited funding and technology. Larger
+organizations must monitor a massive, complex ecosystem of energy
+use that offers few simple, effective solutions for energy use
+management.IoT simplifies the process of energy monitoring and
+management while maintaining a low cost and high level of
+precision. It addresses all points of an organization's consumption
+across devices. Its depth of analysis and control provides
+organizations with a strong means of managing their consumption
+for cost shaving and output optimization. IoT systems discover
+energy issues in the same way as functional issues in a complex
+business network, and provide solutions.
+
+ Reliability-The analytics and action delivered by IoT also help to
+ensure system reliability. Beyond consumption, IoT prevents system
+overloads or throttling. It also detects threats to system
+performance and stability, which protects against losses such as
+downtime, damaged equipment, and injuries.
+
+Building housing Applications
+
+IoT applied to buildings and various structures allows us to
+automate routine residential and commercial tasks and needs in a
+way that dramatically improves living and working environments.
+This, as seen with manufacturing and energy applications, reduces
+costs, enhances safety, improves individual productivity, and
+enhances quality of life.
+
+Environment and Conditioning-One of the greatest challenges in the
+engineering of buildings remains management of environment and
+conditions due to many factors at work. These factors include
+building materials, climate, building use, and more. Managing
+energy costs receives the most attention, but conditioning also
+impacts the durability and state of the structure. IoT aids in
+improving structure design and managing existing structures
+through more accurate and complete data on buildings. It provides
+important engineering information such as how well a material
+performs as insulation in a particular design and environment.
+
+Health and Safety-Buildings, even when constructed with care, can
+suffer from certain health and safety issues. These issues include
+
+ poor performing materials, flaws that leave the building vulnerable
+to extreme weather, poor foundations, and more.
+
+To sum up-
+
+The IoT has brought us many amazing things and it continues to
+surprise us in lots of sectors: business, healthcare, and our private
+lives. As for the downsides, now that you are more aware of them,
+try to keep those under control. Protect your data and be aware of
+how automation and easy access can affect you or your business.
+
+  

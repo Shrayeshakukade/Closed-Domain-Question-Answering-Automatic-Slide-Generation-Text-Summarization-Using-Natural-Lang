@@ -1,0 +1,31 @@
+Simply put, cloud computing is the delivery of computing
+services—including servers, storage, databases, networking, software,
+analytics, and intelligence—over the Internet (“the cloud”) to offer faster
+innovation, flexible resources, and economies of scale. Reliability
+Cloud computing makes data backup, disaster recovery and business
+continuity easier and less expensive because data can be mirrored at
+multiple redundant sites on the cloud provider’s network. Most cloud computing services are provided self service and on demand,
+so even vast amounts of computing resources can be provisioned in
+minutes, typically with just a few mouse clicks, giving businesses a lot of
+flexibility and taking the pressure off capacity planning. Cloud computing eliminates the capital expense of buying hardware and
+software and setting up and running on site datacenters—the racks of
+servers, the round the clock electricity for power and cooling, the IT experts
+for managing the infrastructure. By allowing data and applications to move between private and public
+clouds, a hybrid cloud gives your business greater flexibility, more
+deployment options and helps optimise your existing infrastructure, security
+and compliance. You typically pay
+only for cloud services you use, helping lower your operating costs, run
+your infrastructure more efficiently and scale as your business needs
+change. There are three different ways to deploy cloud services: on a public cloud,
+private cloud or hybrid cloud. The biggest cloud computing services run on a worldwide network of
+secure datacenters, which are regularly upgraded to the latest generation
+of fast and efficient computing hardware. In cloud speak, that means delivering the right amount of IT
+resources—for example, more or less computing power, storage,
+bandwidth—right when it is needed and from the right geographic location. With a public cloud, all hardware,
+software and other supporting infrastructure is owned and managed by the
+cloud provider. 
+
+ Hybrid cloud
+Hybrid clouds combine public and private clouds, bound together by
+technology that allows data and applications to be shared between them. First, you need to determine the type of cloud deployment or cloud
+computing architecture that your cloud services will be implemented on.
